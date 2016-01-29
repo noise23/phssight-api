@@ -1,5 +1,5 @@
 {
-  "name": "sight-api",
+  "name": "phssight-api",
   "description": "An open-source coin blockchain API. The sight API provides you with a convenient, powerful and simple way to query and broadcast data on the bitcoin network and build your own services with it.",
   "version": "0.2.12",
   "author": {
@@ -67,7 +67,7 @@
     "base58-native": "0.1.2",
     "bignum": "*",
     "bitauth": "^0.1.1",
-    "core": "git://github.com/noise23/phscore.git",
+    "phscore": "git://github.com/noise23/phscore.git",
     "bufferput": "git://github.com/bitpay/node-bufferput.git",
     "buffertools": "*",
     "commander": "^2.3.0",
